@@ -7,10 +7,11 @@
 
 ## 📌 Sobre
 Sistema básico de cadastro e login em PHP com:
-- Cadastro de usuários
-- Login com sessão
-- Área restrita
-- Lembrar e-mail
+- **Cadastro:** Validação e sanitização de dados, armazenamento seguro de senhas com `password_hash()`  
+- **Login:** Verificação de credenciais usando `password_verify()`, cookies para "lembrar e-mail"  
+- **Dashboard:** Exibição de dados do usuário e e-mail salvo em cookie  
+- **Sessões:** Gerenciamento seguro com métodos estáticos  
+- **Responsivo:** Layout estilizado com CSS  
 
 ---
 
