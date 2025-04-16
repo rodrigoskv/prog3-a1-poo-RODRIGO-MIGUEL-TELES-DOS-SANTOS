@@ -1,4 +1,3 @@
-```markdown
 # Sistema de Login PHP
 
 **Aluno:** Rodrigo Miguel Teles dos Santos  
