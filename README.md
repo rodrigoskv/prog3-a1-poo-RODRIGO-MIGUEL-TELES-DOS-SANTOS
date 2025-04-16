@@ -34,12 +34,6 @@ http://localhost:8000
 
 ---
 
-## 🛠 Tecnologias
-- PHP puro
-- Sessions e Cookies
-- CSS simples
-
----
 
 ## 📂 Arquivos Principais
 ```
