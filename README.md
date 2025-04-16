@@ -83,4 +83,3 @@ http://localhost:8000
 - Testado no PHP 8.2 com servidor embutido  
 
 🔐 Desenvolvido para fins educacionais - 2025
-```
